@@ -1,0 +1,88 @@
+[
+  {
+    "name": "推荐",
+    "list": [     
+      {
+        "name": "本地库【ff】",
+        "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
+        "icon": "",
+        "version": "❤下载后,才可用"
+      }
+    ]
+  },
+  {
+    "name": "播放源下载",
+    "list": [
+      {
+        "name": "本地【潇洒】",
+        "url": "https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",
+        "icon": "",
+        "version": "最新版本"
+      },
+      {
+        "name": "本地库【ff】",
+        "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
+        "icon": "",
+        "version": "2025.5.17版"
+      },
+      {
+        "name": "本地【小虎斑】",
+        "url": "http://zling.online:20202/小虎斑.zip",
+        "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
+        "version": "5.5"
+      },
+      {
+        "name": "重启更4.1",
+        "url": "http://zling.online:20202/4.0底包.zip",
+        "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
+        "version": "4.0"
+      }
+    ]
+  },
+  {
+    "name": "天神IY下载",
+    "list": [
+      {
+        "name": "天神IY手机版",
+        "url": "https://d.kstore.dev/download/14505/天神IY手机版292.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面.png",
+        "version": "2.9.2_py_64位"
+      },
+      {
+        "name": "天神IY电视版",
+        "url": "https://d.kstore.dev/download/14505/天神IY电视版292.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面.png",
+        "version": "2.9.2_py_32位"
+      },
+      {
+        "name": "天神IY海信版",
+        "url": "https://d.kstore.dev/download/14505/天神IY海信版292.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面.png",
+        "version": "2.9.2_py_32位"
+      }
+    ]
+  },
+  {
+    "name": "其他软件下载",
+    "list": [
+      {
+        "name": "小白文件管理器",
+         "url":"https://gitee.com/iy-cpu/iy/raw/master/小白文件管理器_2.8.0（TV版）.zip",
+        "icon": "",
+        "version": "2.8.0_电视版"
+      },
+      {
+        "name": "影视仓",
+         "url":"https://d.kstore.dev/download/14505/影视仓_6.0.9.3_TV版.zip",
+        "icon": "",
+        "version": "6.0.9.3_电视版"
+      },
+      {
+        "name": "1DM+",
+         "url":"https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/IY/main/1DM+_v1.7.2.zip",
+        "icon": "",
+        "version": "1.7.2_手机版"
+      }
+    ]
+  }
+]
