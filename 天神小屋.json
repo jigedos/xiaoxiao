@@ -24,18 +24,6 @@
         "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
         "icon": "",
         "version": "2025.5.17版"
-      },
-      {
-        "name": "本地【小虎斑】",
-        "url": "http://zling.online:20202/小虎斑.zip",
-        "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-        "version": "5.5"
-      },
-      {
-        "name": "重启更4.1",
-        "url": "http://zling.online:20202/4.0底包.zip",
-        "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-        "version": "4.0"
       }
     ]
   },
