@@ -4,7 +4,7 @@
     "list": [     
       {
         "name": "本地库【ff】",
-        "url": "",
+        "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
         "icon": "",
         "version": "❤下载后,才可用"
       }
@@ -21,7 +21,7 @@
       },
       {
         "name": "本地库【ff】",
-        "url": "",
+        "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
         "icon": "",
         "version": "2025.5.17版"
       },
@@ -44,19 +44,19 @@
     "list": [
       {
         "name": "天神IY手机版",
-        "url": "",
+        "url": "https://d.kstore.dev/download/14505/天神IY手机版292.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面.png",
         "version": "2.9.2_py_64位"
       },
       {
         "name": "天神IY电视版",
-        "url": "",
+        "url": "https://d.kstore.dev/download/14505/天神IY电视版292.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面.png",
         "version": "2.9.2_py_32位"
       },
       {
         "name": "天神IY海信版",
-        "url": "",
+        "url": "https://d.kstore.dev/download/14505/天神IY海信版292.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面.png",
         "version": "2.9.2_py_32位"
       }
@@ -73,7 +73,7 @@
       },
       {
         "name": "影视仓",
-         "url":"",
+         "url":"https://d.kstore.dev/download/14505/影视仓_6.0.9.3_TV版.zip",
         "icon": "",
         "version": "6.0.9.3_电视版"
       },
