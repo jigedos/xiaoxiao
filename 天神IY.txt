@@ -13,7 +13,14 @@
             "indexs": 0,
             "ext": "https://codeberg.org/IY-CPU/IY/raw/branch/main/天神小屋.json"
         },
-        {
+          {
+      "key": "坛影",
+      "name": "坛影|弹幕",
+      "type": 3,
+      "jar": "./lib/custom_spider.jar",
+      "api": "csp_ApplvDV2",
+      "ext": "0###DyoqWQIrBwMuUyBFDRtNGgQ4DB4HOQVEN1BMHzg3KgUuDyxeDSFBAQInKQM="
+    },   {
             "key": "忍者",
             "name": "忍者｜APP",
             "type": 3,
