@@ -4,50 +4,56 @@
     "list": [     
       {
         "name": "本地库【ff】",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
-        "icon": "",
-        "version": "❤下载后,才可用"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
+         "version": "❤下载过,才能用"
       },
       {
         "name": "备用本地库【ff】",
         "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
-        "icon": "",
-        "version": "❤下载后,才可用"
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
+        "version": "❤下载过,才能用"
       }
     ]
   },
   {
-    "name": "播放源下载",
+    "name": "播放源下载(❤下载过,才能用)",
     "list": [
       {
         "name": "本地【潇洒】",
         "url": "https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",
-        "icon": "",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
         "version": "最新版本"
       },
       {
         "name": "本地库【ff】",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
-        "icon": "",
-        "version": "2025.6.3版"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
+        "version": "2025.7.4版"
       },
       {
         "name": "备用本地库【ff】",
         "url": "https://d.kstore.dev/download/14505/本地库【ff】.zip",
-        "icon": "",
-        "version": "2025.6.3版"
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
+        "version": "2025.7.4版"
       },
       {
         "name": "本地【小虎斑】",
-        "url": "http://zling.online:20202/小虎斑.zip",
+        "url": "https://gitee.com/iy-cpu/iy/raw/master/小虎斑.zip",
         "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-        "version": "最新版本"
+        "version": "8.6"
+      },
+      {
+        "name": "本地【摸鱼儿】",
+        "url": "https://gitee.com/iy-cpu/iy/raw/master/本地【摸鱼儿】.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
+        "version": "2025.7.4版"
       },
       {
         "name": "本地【PG】",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/pg.20250529-0750.zip",
-        "icon": "",
-        "version": "2025.5.29版"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/pg.20250616-1742.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/源.png",
+        "version": "2025.6.16版"
       }
     ]
   },
@@ -56,9 +62,9 @@
     "list": [
       {
         "name": "天神IY手机版",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY手机版2.9.3.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY手机版3.0.0.apk",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
-        "version": "2.9.3_py_64位"
+        "version": "3.0.0_py_64位"
       },
       {
         "name": "Via原版",
@@ -80,7 +86,7 @@
       },
       {
         "name": "MT管理器破解部分版.apk",
-         "url":"https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/MT管理器_2.14.5部分破解版.apk",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/MT管理器_2.14.5部分破解版.apk",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/MT管理器.png",
         "version": "2.14.5_破解部分版"
       }
@@ -91,19 +97,31 @@
     "list": [
       {
         "name": "天神IY电视版",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版293.zip",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版300.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
-        "version": "2.9.3_py_32位"
+        "version": "3.0.0_py_32位"
       },
       {
         "name": "天神IY海信版",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版293.zip",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信版300.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
-        "version": "2.9.3_py_32位"
+        "version": "3.0.0_py_32位"
       },
       {
         "name": "天神IY电视版",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版250.zip",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视64位版300.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
+        "version": "3.0.0_py_64位"
+      },
+      {
+        "name": "天神IY全内置电视版",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视全内置版300.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
+        "version": "3.0.0内置32位"
+      },
+      {
+        "name": "天神IY电视版",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版250.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
         "version": "2.5.0_安卓4.+版"
       },
@@ -114,29 +132,41 @@
         "version": "2.8.0_电视版"
       },
       {
-        "name": "影视仓",
-         "url":"https://d.kstore.dev/download/14505/影视仓_6.0.9.3_TV版.zip",
-        "icon": "https://gitee.com/iy-cpu/iy/raw/master/影视仓.png",
-        "version": "6.0.9.3_电视版"
+        "name": "天神仓",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神仓614exo161.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
+        "version": "6.1.4_161电视版"
+      },
+      {
+        "name": "天神仓",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/天神仓614exo141.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/天神IY.png",
+        "version": "6.1.4_141电视版"
       },
       {
         "name": "1DM+",
-         "url":"https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/IY/main/1DM+_v1.7.2.zip",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/1DM+_v1.7.2.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/1DM.png",
         "version": "1.7.2_手机版"
       },
       {
         "name": "洛雪音乐",
-         "url":"https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/IY/main/洛雪音乐120.zip",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/洛雪音乐120.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/洛雪音乐.png",
         "version": "1.2.0-beta.3.8.2_手机版"
       },
       {
         "name": "洛雪音乐",
-         "url":"https://slink.ltd/https://raw.githubusercontent.com/IY-CPU/IY/main/洛雪音乐888.zip",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/洛雪音乐888.zip",
         "icon": "https://gitee.com/iy-cpu/iy/raw/master/洛雪音乐.png",
         "version": "8.8.8_手机版"
-      }
-    ]
+      },
+      {
+        "name": "家庭KTV",
+         "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/家庭KTV115.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/家庭KTV.png",
+        "version": "1.1.5_电视版"
+      }    
+      ]
   }
 ]
