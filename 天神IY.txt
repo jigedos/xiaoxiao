@@ -62,6 +62,23 @@
             }
         },
         {
+            "key": "杂三",
+            "name": "❤还行｜4K线路",
+            "type": 3,
+            "jar": "./jars/lzxw.txt",
+            "quickSearch": 1,
+            "api": "csp_lzxw2",
+            "ext": {
+                "url": "http://160.202.247.214:1688",
+                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/1.txt",
+                "dataKey": "qwertyuiopqwerty",
+                "dataIv": "qwertyuiopqwerty",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
             "key": "鲸鱼",
             "name": "❤鲸鱼｜4K线路",
             "type": 3,
@@ -1965,16 +1982,6 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "版本信息",
-            "name": "版本｜信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://pizazz.s3.bitiful.net/single.json"
         },
         {
             "key": "push_agent",
