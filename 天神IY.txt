@@ -14,6 +14,14 @@
             "indexs": 0,
             "ext": "https://gitee.com/iy-cpu/iy/raw/master/天神小屋.json"
         },
+        {
+      "key": "测试",
+      "name": "PG包|更新",
+      "type": 3,
+      "jar": "./jars/vox.jar",
+      "api": "csp_Market",
+      "ext": "https://gitee.com/iy-cpu/iy/raw/master/PG.json"
+    },
     {
       "key": "窈窕",
       "name": "❤窈窕|4K虎斑",
@@ -59,23 +67,6 @@
                 "dataIv": "staraugust123456",
                 "deviceId": "",
                 "version": "120"
-            }
-        },
-        {
-            "key": "杂三",
-            "name": "❤还行｜4K线路",
-            "type": 3,
-            "jar": "./jars/lzxw.txt",
-            "quickSearch": 1,
-            "api": "csp_lzxw2",
-            "ext": {
-                "url": "http://160.202.247.214:1688",
-                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/1.txt",
-                "dataKey": "qwertyuiopqwerty",
-                "dataIv": "qwertyuiopqwerty",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
             }
         },
         {
@@ -1982,6 +1973,16 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+        {
+            "key": "版本信息",
+            "name": "版本｜信息",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://pizazz.s3.bitiful.net/single.json"
         },
         {
             "key": "push_agent",
