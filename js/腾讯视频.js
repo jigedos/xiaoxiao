@@ -684,15 +684,15 @@ var rule = {
     cate_exclude: '会员|游戏|全部',
     // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
     // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
-    class_name: '精选&电影&电视剧&综艺&动漫&少儿&纪录片',
-    class_url: 'choice&movie&tv&variety&cartoon&child&doco',
+    class_name: '电影&电视剧&综艺&动漫&少儿&纪录片',
+    class_url: 'movie&tv&variety&cartoon&child&doco',
     limit: 20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
     play_parse: true,
     lazy: $js.toString(() => {
         try {
-            let api = "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url=" + input.split("?")[0];
+            let api = "http://140.210.9.53:8100/api/?key=9a23b051c3c3d857ab0b2eecf6e552c5&url=" + input.split("?")[0];
             console.log(api);
             let response = fetch(api, {
                 method: 'get',
@@ -704,7 +704,7 @@ var rule = {
 
             let bata = JSON.parse(response);
             log(bata)
-            if (bata.url.includes("http")) {
+            if (bata.url.includes("qq")) {
                 input = {
                     header: {
                         'User-Agent': ""
@@ -712,7 +712,7 @@ var rule = {
                     parse: 0,
                     url: bata.url,
                     jx: 0,
-                    danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&site=js&url=http://dm.qxq6.com/zy/api.php?url=' + input.split("?")[0]
+                    danmaku: '' + input.split("?")[0]
                 };
             } else {
 
@@ -723,7 +723,7 @@ var rule = {
                     parse: 0,
                     url: input.split("?")[0],
                     jx: 1,
-                    danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&site=js&url=http://dm.qxq6.com/zy/api.php?url=' + input.split("?")[0]
+                    danmaku: '' + input.split("?")[0]
                 };
             }
         } catch {
@@ -734,7 +734,7 @@ var rule = {
                 parse: 0,
                 url: input.split("?")[0],
                 jx: 1,
-                danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&site=js&url=http://dm.qxq6.com/zy/api.php?url=' + input.split("?")[0]
+                danmaku: '' + input.split("?")[0]
             };
         }
     }),

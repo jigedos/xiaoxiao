@@ -664,7 +664,7 @@ var rule = {
     play_parse: true,
     lazy: $js.toString(() => {
         try {
-            let api = "" + input.split("?")[0];
+            let api = "http://140.210.9.53:8100/api/?key=9a23b051c3c3d857ab0b2eecf6e552c5&url=" + input.split("?")[0];
             console.log(api);
             let response = fetch(api, {
                 method: 'get',
@@ -679,14 +679,14 @@ var rule = {
                     parse: 0,
                     url: bata.url,
                     jx: 0,
-                    danmaku: "http://127.0.0.1:9978/proxy?do=danmu&site=js&url=http://dm.qxq6.com/zy/api.php?url=" + input.split("?")[0]
+                    danmaku: "" + input.split("?")[0]
                 };
             } else {
                 input = {
                     parse: 0,
                     url: input.split("?")[0],
                     jx: 1,
-                    danmaku: "http://127.0.0.1:9978/proxy?do=danmu&site=js&url=http://dm.qxq6.com/zy/api.php?url=" + input.split("?")[0]
+                    danmaku: "" + input.split("?")[0]
                 };
             }
         } catch {
@@ -694,7 +694,7 @@ var rule = {
                 parse: 0,
                 url: input.split("?")[0],
                 jx: 1,
-                danmaku: "http://127.0.0.1:9978/proxy?do=danmu&site=js&url=http://dm.qxq6.com/zy/api.php?url=" + input.split("?")[0]
+                danmaku: "" + input.split("?")[0]
             };
         }
     }),
