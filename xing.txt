@@ -2,7 +2,7 @@
     "spider": "https://codeberg.org/IY-CPU/IY/raw/branch/main/spider.webp",
     "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
     "logo": "https://gitee.com/iy-cpu/iy/raw/master/logo.png",
-"warningText": "天神IY：资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]", 
+"warningText": "资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]", 
 "lives": [
         {
             "name": "内置直播",
@@ -136,16 +136,7 @@
         }
     ],
        "sites": [
-    {
-            "key": "版本信息",
-            "name": "天神｜小屋",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://gitee.com/iy-cpu/iy/raw/master/天神小屋.json"
-        },
+   
         {
       "key": "测试",
       "name": "PG包｜更新",
@@ -2682,4 +2673,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
