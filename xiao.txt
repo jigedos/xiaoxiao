@@ -2,7 +2,7 @@
     "spider": "https://codeberg.org/IY-CPU/IY/raw/branch/main/spider.webp",
     "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
     "logo": "https://gitee.com/iy-cpu/iy/raw/master/logo.png",
-"warningText": "资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]", 
+"warningText": "公众号【非凡小小】：资源来自网络，无盈利纯搬运分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]", 
 "lives": [
         {
             "name": "内置直播",
@@ -2675,3 +2675,4 @@
     ]
 
 }
+
