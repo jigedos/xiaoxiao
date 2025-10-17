@@ -6,41 +6,23 @@
 "lives": [
         {
             "name": "内置直播",
-            "boot": false,
-            "type": 0,
+             "type": 0,
             "url": "http://rihou.cc:555/gggg.nzk",
             "playerType": 1,
-            "ua": "Lavf/58.12.100",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png",
-            "core": {
-                "auth": "local://tvbus",
-                "name": "123",
-                "pass": "345",
-                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
-                "so": "http://rihou.cc:555/tvbus.so",
-                "pkg": "com.svc.vlive.home.ytv9x",
-                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
-            }
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+
         },
         {
             "name": "内置EXO",
-            "boot": false,
+         
             "type": 0,
             "url": "http://rihou.cc:555/qtsd",
             "playerType": 2,
             "ua": "Goiptv/8.8.8",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png",
-            "core": {
-                "auth": "local://tvbus",
-                "name": "123",
-                "pass": "345",
-                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
-                "so": "http://rihou.cc:555/tvbus.so",
-                "pkg": "com.svc.vlive.home.ytv9x",
-                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
-            }
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        
         },
         {
             "name": "内置测测",
@@ -136,98 +118,17 @@
         }
     ],
        "sites": [
-   
-        {
-      "key": "测试",
-      "name": "PG包｜更新",
-      "type": 3,
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/vox.jar",
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,     
-      "ext": "https://gitee.com/iy-cpu/iy/raw/master/PG.json"
-    },
-    {
-      "key": "huban",
-      "name": "虎斑｜弹幕",
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/HubanTC.jar",
-      "type": 3,
-      "api": "csp_Huban"
-    },
-    {
-            "key": "腾讯视频",
-            "name": "❤腾讯｜4K限时",
+      {
+            "key": "豆瓣",
+            "name": "豆瓣｜推荐",
             "type": 3,
-            "api": "https://codeberg.org/IY-CPU/IY/raw/branch/main/js/drpy2.min.js",
-            "ext": "https://codeberg.org/IY-CPU/IY/raw/branch/main/js/腾讯视频.js"
+            "api": "csp_Douban",
+            "searchable": 0
         },
-        {
-            "key": "芒果视频",
-            "name": "❤芒果｜4K限时",
-            "type": 3,
-            "api": "https://codeberg.org/IY-CPU/IY/raw/branch/main/js/drpy2.min.js",
-            "ext": "https://codeberg.org/IY-CPU/IY/raw/branch/main/js/芒果视频.js"
-        },
-        {
-      "key": "醉挽清风",
-      "name": "❤醉挽清风｜4K摸鱼",
-      "type": 4,
-      "api": "http://我不是.摸鱼儿.xyz/api/yuyutx.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "窈窕",
-      "name": "❤窈窕｜4K虎斑",
-      "type": 3,
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/custom_spider.jar",
-      "api": "csp_HBT4",
-      "ext": "http://154.219.113.13:4866/test.php?site=labi###labi"
-    },
-    {
-      "key": "淑女",
-      "name": "❤淑女｜4K虎斑",
-      "type": 3,
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/custom_spider.jar",
-      "api": "csp_HBT4",
-      "ext": "http://154.219.113.13:4866/test.php?site=mihdr###mihdr"
-    },
-    {
-      "key": "君子",
-      "name": "❤君子｜4K虎斑",
-      "type": 3,
-      "api": "csp_HBT4",
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/custom_spider.jar",
-      "ext": "http://154.219.113.13:4866/test.php?site=erxiao###erxiao"
-    },
-    {
-      "key": "好逑",
-      "name": "❤好逑｜4K虎斑",
-      "type": 3,
-      "api": "csp_HBT4",
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/custom_spider.jar",
-      "ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
-    },
-    {
-      "key": "至尊",
-      "name": "❤魔尊｜4K虎斑",
-      "type": 3,
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/custom_spider.jar",
-      "api": "csp_AppZzun",
-      "ext": "http://154.219.113.13:12121/json/app.txt"
-    },
-    {
-      "key": "魔尊",
-      "name": "❤重楼｜4K虎斑",
-      "type": 3,
-      "jar": "https://codeberg.org/IY-CPU/IY/raw/branch/main/jars/custom_spider.jar",
-      "api": "csp_HBcms10",
-      "ext": "http://154.219.113.13:12121/json/cms.txt"
-    },
+        
     {
       "key": "巧技",
-      "name": "❤巧技｜4K线路",
+      "name": "❤臻彩｜4K线路",
       "type": 3,
       "api": "csp_qiao2",
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
@@ -279,13 +180,7 @@
             "api": "https://codeberg.org/IY-CPU/IY/raw/branch/main/js/drpy2.min.js",
             "ext": "https://codeberg.org/IY-CPU/IY/raw/branch/main/js/路漫漫.js"
         },
-    {
-            "key": "豆瓣",
-            "name": "豆瓣｜首页",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
+ 
         {
             "key": "预告",
             "name": "新片｜预告",
@@ -293,12 +188,7 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-        {
-            "key": "本地",
-            "name": "本地｜视频",
-            "type": 3,
-            "api": "csp_LocalFile"
-        },
+      
         {
             "key": "配置中心",
             "name": "配置｜中心",
@@ -314,31 +204,31 @@
         },
         {
             "key": "夸克推送",
-            "name": "👊夸克┃推送",
+            "name": "👊夸克┃网盘",
             "type": 4,
             "api": "https://so.yinpai.xyz/api.php?type=quark"
         },
         {
             "key": "百度推送",
-            "name": "✊百度┃推送",
+            "name": "✊百度┃网盘",
             "type": 4,
             "api": "https://so.yinpai.xyz/api.php?type=baidu"
         },
         {
             "key": "UC推送",
-            "name": "☝️优熙┃推送",
+            "name": "☝️优熙┃网盘",
             "type": 4,
             "api": "https://so.yinpai.xyz/api.php?type=uc"
         },
         {
             "key": "天翼推送",
-            "name": "✋天翼┃推送",
+            "name": "✋天翼┃网盘",
             "type": 4,
             "api": "https://so.yinpai.xyz/api.php?type=tianyi"
         },
         {
             "key": "123推送",
-            "name": "✌️123┃推送",
+            "name": "✌️123┃网盘",
             "type": 4,
             "api": "https://so.yinpai.xyz/api.php?type=123"
         },
@@ -2675,5 +2565,6 @@
     ]
 
 }
+
 
 
