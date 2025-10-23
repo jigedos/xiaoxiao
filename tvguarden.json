@@ -1,0 +1,22 @@
+{
+    "lives": [
+        {
+            "name": "全球",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/jigedos/xiaoxiao/main/lib/21.jpg",
+            "playerType": 1,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "花园",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/jigedos/xiaoxiao/main/lib/20.jpg",
+            "playerType": 1,
+                        "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+           
+        }
+      
+    ]
+}
