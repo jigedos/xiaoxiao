@@ -1,33 +1,7 @@
 {
   "spider": "https://7337.kstore.space/kjtv/tvkj.jar",
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "📢机缘巧盒机顶盒专用 请勿公开传播",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "配置中心",
-      "name": "☀配置中心☀",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "本地",
-      "name": "☀本地🔹视频",
-      "type": 3,
-      "api": "csp_LocalFile"
-    },
+
     {
       "key": "荐片",
       "name": "☀荐片🔹磁力",
@@ -58,26 +32,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "AppQi1",
-      "name": "☀奇力🔹影视",
-      "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "api": "csp_AppQi",
-      "changeable": "0",
-      "filterable": 1,
-      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
-    },
-    {
-      "key": "AppQi1",
-      "name": "☀爱影🔹4k源",
-      "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "api": "csp_AppQi",
-      "changeable": "0",
-      "filterable": 1,
-      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
-    },
+ 
     {
       "key": "苹果影视",
       "name": "☀苹果🔹弹幕",
@@ -86,17 +41,7 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "浪酷影视",
-      "name": "☀浪酷🔹弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-      }
-    },
+
     {
       "key": "闪影",
       "name": "☀闪影🔹弹幕",
