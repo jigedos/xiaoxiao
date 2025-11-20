@@ -1,4 +1,5 @@
-{ "spider": "../jar/spider.jar;md5;074ddf3f17d1a91c461b42f1f701d0e7",
+{
+  "spider": "../jar/spider.jar;md5;074ddf3f17d1a91c461b42f1f701d0e7",
   "sites": [
     {
       "key": "drpyS_瓜子[APP]",
@@ -7,7 +8,7 @@
       "api": "https://zhxy.eu.org/api/瓜子[APP]",
       "searchable": 2,
       "filterable": 1,
-      "quickSearch": 1
+      "changeable": 0
     },
     {
       "key": "drpyS_热播_AppRJ",
@@ -16,7 +17,7 @@
       "api": "https://zhxy.eu.org/api/AppRJ[模板]",
       "searchable": 1,
       "filterable": 1,
-
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAAwEhAN7/Li4vcHovQXBw5qih5p2/6YWN572uLmpzb24k54Ot5pKtRJL/YCEAAAA="
     },
     {
@@ -26,7 +27,7 @@
       "api": "https://zhxy.eu.org/api/AppGet[模板]",
       "searchable": 1,
       "filterable": 1,
-
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0ncsKHi2YuGzuftftvY+37tOL6s4P0/lya6JQAQAR3sRgSEAAAA="
     },
     {
@@ -36,8 +37,8 @@
       "api": "https://zhxy.eu.org/api/享趣[APP]?do=cat",
       "searchable": 1,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_仓鼠_AppGet",
@@ -46,6 +47,7 @@
       "api": "https://zhxy.eu.org/api/AppGet[模板]",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAAwEhAN7/Li4vcHovQXBw5qih5p2/6YWN572uLmpzb24k5LuT6bygk64kGSEAAAA="
     },
     {
@@ -55,6 +57,7 @@
       "api": "https://zhxy.eu.org/api/AppGet[模板]",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0ncsKHi2YuGzuftftvY+37tOL6s4P0/l6aSpQAQA9FtsbyEAAAA="
     },
     {
@@ -64,6 +67,7 @@
       "api": "https://zhxy.eu.org/api/AppGet[模板]",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAAwEhAN7/Li4vcHovQXBw5qih5p2/6YWN572uLmpzb24k5ZKW5ZWhaJYsEyEAAAA="
     },
     {
@@ -73,6 +77,7 @@
       "api": "https://zhxy.eu.org/api/AppGet[模板]",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0ncsKHi2YuGzuftftvY+37tOL6s4P0/l2Y7Wl4v7AFp+snchAAAA"
     },
     {
@@ -82,7 +87,7 @@
       "api": "https://zhxy.eu.org/api/AppGet[模板]",
       "searchable": 1,
       "filterable": 1,
-
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAAwEhAN7/Li4vcHovQXBw5qih5p2/6YWN572uLmpzb24k56eS55yLMzG6sSEAAAA="
     },
     {
@@ -92,7 +97,7 @@
       "api": "https://zhxy.eu.org/api/AppV2[模板]",
       "searchable": 1,
       "filterable": 1,
-
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0ncsKHi2YuGzuftftvY+37tOL6s4P0/lRfvmpxu6AO/rEdQhAAAA"
     },
     {
@@ -102,18 +107,18 @@
       "api": "https://zhxy.eu.org/api/AppV2[模板]",
       "searchable": 1,
       "filterable": 1,
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0ncsKHi2YuGzuftftvY+37tOL6s4P08l0iXSBQBPXcWHHwAAAA=="
     },
-
-       {
+    {
       "key": "drpyS_苹果[优]",
       "name": "❤️苹果┃优质",
       "type": 4,
       "api": "https://zhxy.eu.org/api/苹果[优]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_荐片[优]",
@@ -122,10 +127,9 @@
       "api": "https://zhxy.eu.org/api/荐片[优]",
       "searchable": 2,
       "filterable": 1,
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
-
-   
     {
       "key": "drpyS_直播转点播[合]",
       "name": "🎁直播┃合集",
@@ -133,7 +137,7 @@
       "api": "https://zhxy.eu.org/api/直播转点播[合]",
       "searchable": 1,
       "filterable": 1,
-
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0n8+e8uzSWtf7F3zvGknkKGXVZyfBwCRWcs9GgAAAA=="
     },
     {
@@ -143,6 +147,7 @@
       "api": "https://zhxy.eu.org/api/采集之王[合]",
       "searchable": 0,
       "filterable": 0,
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA9PT0y+o0n/Z3v5ydtuTnd3P+7r1sorz81QMAUrSlNAZAAAA"
     },
     {
@@ -152,7 +157,8 @@
       "api": "https://zhxy.eu.org/api/央视大全[官]",
       "searchable": 1,
       "filterable": 1,
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_腾讯[官]",
@@ -161,7 +167,8 @@
       "api": "https://zhxy.eu.org/api/腾讯[官]",
       "searchable": 2,
       "filterable": 1,
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_芒果[官]",
@@ -170,7 +177,8 @@
       "api": "https://zhxy.eu.org/api/芒果[官]",
       "searchable": 2,
       "filterable": 1,
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_聚合直播[官]",
@@ -179,8 +187,8 @@
       "api": "https://zhxy.eu.org/api/聚合直播[官]",
       "searchable": 0,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_养生[知]",
@@ -189,7 +197,8 @@
       "api": "https://zhxy.eu.org/api/养生[知]",
       "searchable": 2,
       "filterable": 0,
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_凤凰FM[听]",
@@ -198,8 +207,8 @@
       "api": "https://zhxy.eu.org/api/凤凰FM[听]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_博看听书[听]",
@@ -208,8 +217,8 @@
       "api": "https://zhxy.eu.org/api/博看听书[听]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_古诗鉴赏[知]",
@@ -218,8 +227,8 @@
       "api": "https://zhxy.eu.org/api/古诗鉴赏[知]",
       "searchable": 1,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_科学辟谣[知]",
@@ -228,8 +237,8 @@
       "api": "https://zhxy.eu.org/api/科学辟谣[知]",
       "searchable": 1,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_六月听书[听]",
@@ -238,8 +247,8 @@
       "api": "https://zhxy.eu.org/api/六月听书[听]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_喜马拉雅[听]",
@@ -248,8 +257,8 @@
       "api": "https://zhxy.eu.org/api/喜马拉雅[听]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_酷我听书[听]",
@@ -258,8 +267,8 @@
       "api": "https://zhxy.eu.org/api/酷我听书[听]",
       "searchable": 2,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_集百动漫[漫]",
@@ -268,8 +277,8 @@
       "api": "https://zhxy.eu.org/api/集百动漫[漫]",
       "searchable": 1,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_聚合短剧[短]",
@@ -278,8 +287,8 @@
       "api": "https://zhxy.eu.org/api/聚合短剧[短]",
       "searchable": 1,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_哔哩影视[官]",
@@ -288,8 +297,8 @@
       "api": "https://zhxy.eu.org/api/哔哩影视[官]",
       "searchable": 1,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_兄弟[搜]",
@@ -298,7 +307,7 @@
       "api": "https://zhxy.eu.org/api/网盘[搜]",
       "searchable": 1,
       "filterable": 0,
-
+      "changeable": 0,
       "ext": "H4sIAAAAAAAAA8soKSkottLXr8jMz0tPySxIzNNLzs8FAM/QOtoWAAAA"
     },
     {
@@ -308,8 +317,8 @@
       "api": "https://zhxy.eu.org/api/百度盘[搜]",
       "searchable": 1,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_网盘资源[搜]",
@@ -318,8 +327,8 @@
       "api": "https://zhxy.eu.org/api/网盘资源[搜]",
       "searchable": 1,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_音海[搜]",
@@ -328,8 +337,8 @@
       "api": "https://zhxy.eu.org/api/音海[搜]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_兔小贝[儿]",
@@ -338,8 +347,8 @@
       "api": "https://zhxy.eu.org/api/兔小贝[儿]",
       "searchable": 2,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_贝乐虎[儿]",
@@ -348,8 +357,8 @@
       "api": "https://zhxy.eu.org/api/贝乐虎[儿]",
       "searchable": 0,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_梨园行[戏]",
@@ -358,8 +367,8 @@
       "api": "https://zhxy.eu.org/api/梨园行[戏]",
       "searchable": 0,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "drpyS_91电视[直]",
@@ -368,8 +377,8 @@
       "api": "https://zhxy.eu.org/api/91电视[直]",
       "searchable": 2,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "金牌",
@@ -377,8 +386,9 @@
       "type": 3,
       "api": "https://zhxy.eu.org/py/金牌.py",
       "searchable": 1,
-
-      "filterable": 1
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "py_bilibili",
@@ -387,8 +397,8 @@
       "api": "https://zhxy.eu.org/py/py_bilibili.py",
       "searchable": 1,
       "filterable": 1,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "push_agent",
@@ -397,8 +407,8 @@
       "api": "https://zhxy.eu.org/api/push_agent",
       "searchable": 0,
       "filterable": 0,
-
-      "ext": ""
+      "changeable": 0,
+      "ext": {}
     },
     {
       "key": "更新时间",
